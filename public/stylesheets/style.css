@@ -1,0 +1,25 @@
+.forum{
+  height: auto;
+  width: auto;
+  background: grey;
+  display: flex;
+  justify-content: center;
+}
+.detailmaincontainer{
+  background: grey;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.detailbox{
+  background: ivory;
+  height: auto;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
